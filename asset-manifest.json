@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amit-portfolio/static/css/main.07e04141.css",
+    "main.js": "/amit-portfolio/static/js/main.5b7710e7.js",
+    "index.html": "/amit-portfolio/index.html",
+    "main.07e04141.css.map": "/amit-portfolio/static/css/main.07e04141.css.map",
+    "main.5b7710e7.js.map": "/amit-portfolio/static/js/main.5b7710e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07e04141.css",
+    "static/js/main.5b7710e7.js"
+  ]
+}
